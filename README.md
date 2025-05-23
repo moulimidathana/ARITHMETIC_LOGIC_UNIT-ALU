@@ -41,7 +41,7 @@
 ## This ALU design, though basic, is a crucial step in understanding how more complex processing units work. It helped me grasp how different operations can be implemented through conditional logic, and how inputs and control signals interact to produce desired outputs. This project has deepened my understanding of digital systems and has laid a strong foundation for more advanced designs involving multiplexers, encoders, decoders, and sequential logic
 
 
-#OUTPUT :
+# OUTPUT :
 
 ![Image](https://github.com/user-attachments/assets/8f8a3d9c-ee14-4f10-9e82-13cf9d49dfa6)
 
