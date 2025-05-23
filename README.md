@@ -13,7 +13,6 @@
 *MENTOR* : NEELA SANTOSH
 
 ## I have successfully completed the task of designing and implementing a simple Arithmetic Logic Unit (ALU) on my own. During the process, I also utilized ChatGPT to rectify a few errors and clarify certain concepts, which helped me improve the overall functionality and correctness of the design.
-
 ## The ALU is a fundamental building block in digital electronics and computer architecture, and it is responsible for performing arithmetic and logical operations. In this particular implementation, the ALU is designed to take two 4-bit binary inputs, labeled A and B. Based on a 3-bit operation input code, it performs a specific operation and produces the corresponding result.
 
 ## Here is how the ALU functions based on the operation input:
