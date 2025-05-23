@@ -39,3 +39,10 @@
 ## This operation performs a bitwise NOT operation on the input A. Each bit in A is inverted: 0 becomes 1, and 1 becomes 0. The NOT operation is unary, meaning it uses only one operand, and in this case, the input B is ignored. This function is often used in digital logic for complementing values or generating inverse signals.
 
 ## This ALU design, though basic, is a crucial step in understanding how more complex processing units work. It helped me grasp how different operations can be implemented through conditional logic, and how inputs and control signals interact to produce desired outputs. This project has deepened my understanding of digital systems and has laid a strong foundation for more advanced designs involving multiplexers, encoders, decoders, and sequential logic
+
+
+#OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/27a846e4-dc7c-426d-a635-fb21891d77f1)
+
+[ALU_RTL_SCHEMATIC.pdf](https://github.com/user-attachments/files/20413789/ALU_RTL_SCHEMATIC.pdf)
