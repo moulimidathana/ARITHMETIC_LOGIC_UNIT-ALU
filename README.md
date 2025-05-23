@@ -42,7 +42,9 @@
 
 
 #OUTPUT :
+![Image](https://github.com/user-attachments/assets/8f8a3d9c-ee14-4f10-9e82-13cf9d49dfa6)
+
 
 ![Image](https://github.com/user-attachments/assets/27a846e4-dc7c-426d-a635-fb21891d77f1)
 
-[ALU_RTL_SCHEMATIC.pdf](https://github.com/user-attachments/files/20413789/ALU_RTL_SCHEMATIC.pdf)
+
